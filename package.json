@@ -44,7 +44,7 @@
     "http-custom-errors": "^8.0.0",
     "knex": "^2.4.0",
     "lodash": "^4.17.5",
-    "moment": "~2.19.2",
+    "moment": "~2.29.4",
     "moment-timezone": "~0.5.9",
     "ms": "~2.0.0",
     "newrelic": "^4.9.0",
